@@ -34,7 +34,7 @@
     "@types/jest": "^22.2.3",
     "babel-polyfill": "^6.26.0",
     "cpx": "^1.5.0",
-    "del-cli": "^1.1.0",
+    "del-cli": "^2.0.0",
     "husky": "^0.14.3",
     "jasmine-core": "^2.99.1",
     "jest": "^22.4.4",
